@@ -1,4 +1,4 @@
-# Vanilla Milkshake Recipe [^1]
+# Vanilla Milkshake Recipe (Final version) [^1]
 
 ## Ingredients:
 - 2 cups vanilla ice cream
